@@ -1,0 +1,35 @@
+* {
+font-family: Montserrat !important;
+}
+.mindiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.card{
+    width: 300px;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;;
+  background: pink;
+gap: 30px;
+}
+img{
+    width: 200px;
+    height: 200px ;
+    border-radius: 100px;
+    
+}
+.cardname> h3> span{
+    color: rgb(212, 70, 70);
+}
+.cardicone{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+h2,h3{
+    margin: 0px;
+}
